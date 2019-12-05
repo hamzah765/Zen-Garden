@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono');
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
+body{
+    text-align: center;
+}
+/* header{
+    background:url('../img/huntington.png');
+    text-align: center;
+    font-size: 35px;
+    height: 400px;
+    color: black;
+   font-family: 'https://fonts.googleapis.com/css?family=Roboto:300';
+   font-style: italic;
+
+} */
+header{
+    background:url('../img/huntington.png');
+    height: 200px;
+}
+h2{
+    font-weight: 100;
+    font-style: italic;
+    font-size: 40px;
+    margin-top: 10px;
+}
+h1{
+   color: black;
+   font-size: 50px;
+   font-style: italic;
+    
+}
+.parben{
+    background-image:url('../img/bamboo.png');
+    background-color: rgba(144, 238, 144, 0.514);
+    font-size: 30px;
+}
+.d{
+    background-image:url('../img/koi.jpg');
+    height: 250px;
+    font-size: 25px;
+   font-family:'https://fonts.googleapis.com/css?family=Satisfy';
+   display: flex;
+   justify-content: baseline;
+   color: darkgray;
+}
+footer{
+    background-color:teal;
+    display: flex;
+    justify-content: space-between;
+    font-size: 70px;
+}
+.zen-validate-html:hover{
+    background-color: gray;
+}
+.zen-validate-css:hover{
+    background-color: gray;
+}
+.zen-accessibility:hover{
+    background-color: gray;
+}
+.zen-github:hover{
+    background-color: gray;
+}
+.zen-license:hover{
+    background-color: gray;
+}
+.d1{
+    font-size: 30px;
+}
+div#zen-explanation.explanation{
+font-size: 30px;
+}
+.requirements{
+    font-size: 30px;
+}
